@@ -1,0 +1,28 @@
+<html>
+<body>
+
+<h1>
+Jordan McGarty
+<br>
+1/31/19
+<br>
+<br> 
+<a href = file:///C:/xampp/htdocs/Projects%20and%20Assignments/website%20assignment%201.html>
+Assignment 1</a> <br>
+<a href = file:///C:/xampp/htdocs/Projects%20and%20Assignments/assignment%202.html>
+Assignment 2</a> <br>
+<a href = file:///C:/xampp/htdocs/Projects%20and%20Assignments/assignment%203.html>
+Assignment 3</a> <br> 
+
+</body>
+</html>
+<style>
+a:link {
+	color: blue;
+	background-color: transparent;
+}
+body {
+  background-color: green;
+}
+
+<style>
